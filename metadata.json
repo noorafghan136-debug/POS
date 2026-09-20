@@ -1,0 +1,6 @@
+{
+  "name": "Shop POS",
+  "description": "Fast, reliable Point of Sale system for retail shops with barcode scanning, cart management, instant checkout, thermal receipts, and sales tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
